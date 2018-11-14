@@ -1,0 +1,13 @@
+# Éú³ÉÕßÅäÖÃ
+spring:
+  kafka:
+    bootstrap-servers: 192.168.1.150:9092
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: ${kafka.topic}
+        input:
+          destination: ${kafka.topic}
+kafka:
+  topic: cloud-stream

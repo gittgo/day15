@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka.iml" filepath="$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-kafka-demo/spring-cloud-stream-kafka-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-kafka-demo/spring-cloud-stream-kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-rabbit-demo/spring-cloud-stream-rabbit-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-rabbit-demo/spring-cloud-stream-rabbit-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-kafka-demo/spring-kafka-demo.iml" filepath="$PROJECT_DIR$/spring-kafka-demo/spring-kafka-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-kafka" />
+        <module name="spring-cloud-stream-kafka-demo" />
+        <module name="spring-cloud-stream-rabbit-demo" />
+        <module name="spring-kafka-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-kafka" target="1.8" />
+      <module name="spring-cloud-stream-kafka-demo" target="1.8" />
+      <module name="spring-cloud-stream-rabbit-demo" target="1.8" />
+      <module name="spring-kafka-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
